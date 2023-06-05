@@ -28,7 +28,7 @@
         "VNS_tag":"C4",
         "VNS_clustername":"Visualizing",
         "VNS_color":"#E6E600",
-        "VNS_desc":"AI can augment designers' abilities to visualize hard-to-express ideas by collecting and curating various references in response to a given set of user requirements.",
+        "VNS_desc":"AI can visualize hard-to-express ideas by collecting and curating various references in response to a given set of user requirements.",
         "VNS_num":27
         },
         
@@ -77,7 +77,7 @@
         "VNS_tag":"C10",
         "VNS_clustername":"Testing",
         "VNS_color":"#E6E600",
-        "VNS_desc":"AI can enhance designers' ability to test their work by predicting human judgements and preferences to help understand the designs from the perspective of users.",
+        "VNS_desc":"AI can predict human judgements and preferences to help understand the designs from the perspective of users.",
         "VNS_num":16
         },
         {
